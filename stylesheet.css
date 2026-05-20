@@ -1,0 +1,81 @@
+.title-store {
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+.list {
+    text-align: center;
+    list-style-type: none;
+    margin-right: 40px;
+    margin-bottom: 50px;
+}
+.shopping-item {
+    text-align: center;
+}
+.add-to-cart {
+    font-size: 30px;
+    background-color: white;
+    color:blue;
+}
+body {
+    background-color:chocolate;
+    color:bisque;
+}
+.price {
+    font-size: 20px;
+    margin-top: 10px;
+}
+.cartitle {
+    text-align: center;
+    font-size: 50px;
+}
+.cart {
+    text-align: center;
+}
+.buy {
+    font-size: 20px;
+    background-color: green;
+    color:chocolate;
+}
+.item-img{
+    width: auto;
+    height: 100px;
+    margin-right: 0px;
+    white-space: nowrap;
+}
+.cartitle {
+    text-align: center;
+}
+.cart-column .cart-item {
+    font-size: 30px;
+    position: relative;
+    top: -40px;
+    left: 50px;
+}
+.quantity {
+    font-size: 20px;
+    width: 50px;
+    position: relative;
+    top: -40px;
+    left: 150px;
+}
+.REMOVE {
+    font-size: 20px;
+    position: relative;
+    top: -40px;
+    left: 250px;
+    background-color: red;
+    color:white;
+}
+.REMOVE-COFFEE {
+    position: relative;
+    left: 255px;
+}
+.quantity.quantity-coffee {
+    position: relative;
+    left: 155px;
+}
+.car-coffee .cart-item .cart-column {
+    position: relative;
+    left: 500px;
+}
