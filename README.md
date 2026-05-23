@@ -11,3 +11,4 @@ quantity box works as intended, increasing total, no item going below 0
 BUY CART ITEMS button produces an alert, thanking you for buying, along with removing cart items and also updating the total
 in index.html and about.html
 it's all frontend no interactivity at all
+Made up names for the gag, no real names were used
