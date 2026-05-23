@@ -38,7 +38,7 @@ body {
     color:chocolate;
 }
 .item-img{
-    width: auto;
+    width: 100px;
     height: 100px;
     margin-right: 0px;
     white-space: nowrap;
@@ -49,7 +49,7 @@ body {
 .cart-column .cart-item {
     font-size: 30px;
     position: relative;
-    top: -40px;
+    top: -50px;
     left: 50px;
 }
 .quantity {
@@ -67,15 +67,23 @@ body {
     background-color: red;
     color:white;
 }
-.REMOVE-COFFEE {
-    position: relative;
-    left: 255px;
+.BUY-BTN {
+    text-align: right;
 }
-.quantity.quantity-coffee {
+.price-column {
     position: relative;
-    left: 155px;
+    top: -20px;
+    font-size: 20px;
 }
-.car-coffee .cart-item .cart-column {
-    position: relative;
-    left: 500px;
+.cart-sand {
+    margin-top: 20px;
+}
+.member {
+    text-align: center;
+}
+.figcaption {
+    margin-bottom: 50px;
+}
+.total {
+    font-size: 20px;
 }
